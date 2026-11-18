@@ -31,7 +31,7 @@ All database resources (`Connection`, `Statement` / `PreparedStatement`, `Result
 | **Student B** | `Joe abou ghannam` | `322470998` | `joe.abou.ghannam@e.braude.ac.il` |
 
 
-* **GitHub Repository URL:** `https://github.com/[Username]/JDBC_FlightManager`
+* **GitHub Repository URL:** `https://github.com/EdenKrayniz/JDBC_FlightManager`
 
 ---
 
